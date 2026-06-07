@@ -110,7 +110,7 @@ end)
 -- === ANTI AIM TOGGLE (Button 3) ===
 local antiAimEnabled = false
 local antiAimConnection = nil
-local ANTI_AIM_DISTANCE = 25
+local ANTI_AIM_DISTANCE = 12
 
 TextButton_3.Parent = Frame_2
 TextButton_3.BackgroundColor3 = Color3.new(0.156863, 0.156863, 0.156863)
